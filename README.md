@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ansatx
-- 💼 Account Executive at BMW Group with industry experience in Python, SQL, Tableau and R.
+- 💼 Data Analyst with industry experience in Automotive and Fintech, specialising in Python, SQL, Tableau and R.
 - 🌱 I’m currently working towards the completion of a Data Career Accelerator at London School of Economics (LSE)
 - 📫 You can reach me/connect via LinkedIn (https://www.linkedin.com/in/ansatkossakov/).
 
